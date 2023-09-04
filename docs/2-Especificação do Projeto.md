@@ -18,7 +18,7 @@ Exemplo:
 ![miguel](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-realidadevirtualadefip/assets/141837160/371dbb10-f371-4145-b577-f8d45ebad7b8) |**Idade:** 13 anos. **Naturalidade:** Poços de Caldas - Minas Gerais.       |**Atribuições:** Miguel é um estudante dedicado em uma escola inclusiva, onde recebe apoio de um professor de apoio especializado para adaptar seu currículo às suas necessidades. Ele também faz fisioterapia regularmente para melhorar sua mobilidade e fortalecer seus músculos. Além disso, Miguel é ativo em um grupo de jovens com deficiência, onde compartilha experiências e se envolve em atividades sociais e recreativas. 
 |**Motivações:** A maior motivação de Miguel é sua paixão pelo esporte. Mesmo com sua deficiência, ele é um entusiasta de esportes adaptados, como basquete em cadeira de rodas. Ele sonha em representar sua escola em competições esportivas adaptadas um dia. Sua determinação em superar as barreiras físicas o impulsiona a treinar duro e buscar a excelência no esporte.  |**Frustações:** Miguel fica frustrado com a falta de acessibilidade em muitos lugares públicos e a falta de conscientização sobre as necessidades das pessoas com deficiência. A falta de rampas adequadas e banheiros acessíveis é uma fonte constante de desafio. Ele também enfrenta atitudes negativas de algumas pessoas que subestimam suas habilidades devido à sua deficiência.   |**Hobbies** Além do esporte, Miguel é um apaixonado por música. Ele toca violão e gosta de compor suas próprias músicas. Ele também é um leitor voraz e gosta de ler sobre biografias de atletas inspiradores e livros de aventura. Além disso, ele é um amante da natureza e passa seu tempo explorando trilhas acessíveis em sua cadeira de rodas. **História:** Miguel nasceu com sua condição, o que trouxe desafios para sua família desde cedo. Seus pais sempre o apoiaram em suas paixões e interesses, e eles o matricularam em uma escola inclusiva, onde ele encontrou amigos e professores dedicados. Miguel é uma inspiração para todos ao seu redor, mostrando que a determinação e a paixão podem superar desafios significativos. Sua história é um testemunho de resiliência e determinação, e ele está determinado a fazer do mundo um lugar mais inclusivo e acessível para pessoas com deficiência, especialmente no mundo dos esportes adaptados.
 
-<! Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
+Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -30,7 +30,7 @@ Exemplo:
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
 
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt >
+Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt 
 
 ## Histórias de Usuários
 
