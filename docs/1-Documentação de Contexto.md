@@ -23,12 +23,9 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O desenvolvimento de um jogo voltado para pessoas com deficiências físicas representa uma iniciativa de grande relevância e significado, uma vez que pode oferecer inúmeros benefícios, tais como o aprimoramento das habilidades motoras e cognitivas dessas pessoas.
+De acordo com o IBGE, o Brasil possui mais de 18,6 milhões de deficientes. Dentre eles, 19,5% são analfabetos, e somente 25,6% concluíram o ensino médio. Em contrapartida, para pessoas sem algum tipo de deficiência, o índice de analfabetismo é de 4,1%, e 57,3% concluíram o ensino médio. Isso destaca a crucial importância de se concentrar e investir nessa área.
+Nosso objetivo é promover o desenvolvimento das habilidades cognitivas e motoras, utilizando a tecnologia da realidade virtual como meio para aprimorar o engajamento e motivar a participação ativa das pessoas na terapia.
 
 ## Público-Alvo
 
