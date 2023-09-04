@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Realidade Virtual ADEFIP
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,17 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Davi Freire Zanatta
+- Diogo Nascimento Ruis
+- Henrique de Souza Rocha
+- João Gabriel Bernardes de Oliveira
+- Leonardo Dias Cohen
+- Rafael de Souza Felisberto
 
-## Professor
+## Professores
 
-- Mestre Yoda
+- Diogo Roberto Gonçalves de Pontes
+- Luciana de Nardin
 
 # Documentação
 
