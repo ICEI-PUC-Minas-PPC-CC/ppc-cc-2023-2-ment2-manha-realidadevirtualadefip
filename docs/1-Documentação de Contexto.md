@@ -9,7 +9,7 @@ O principal desafio consiste em encontrar maneiras de minimizar as dificuldades 
 
 ### Objetivo do Trabalho
 
-O objetivo principal do trabalho é ajudar pessoas que possuam algum tipo de deficiência e proporcionar um pouco de diversão.
+O objetivo principal do trabalho é incluir pessoas com alguma deficiência em atividades e proporcionar um pouco de diversão.
 
 ### Jogo de Quebra-Cabeça em Realidade Virtual
 
