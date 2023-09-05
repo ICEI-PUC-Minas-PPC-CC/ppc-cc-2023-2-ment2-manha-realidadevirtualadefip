@@ -43,7 +43,10 @@ Exemplo:
 |Beatriz Souza Almeida | Aumentar meu foco e me distrair durante as sessões. | As sessões renderem mais e serem mais descontraídas. |
 |Miguel Fernandes Araujo | Aumentar minhas habilidades nos esportes paralímpicos. | Me tornar um grande jogador de basquete paralímpico. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+**Beatriz** nasceu com paralisia cerebral, o que foi um desafio para sua família desde cedo. No entanto, seus pais sempre a apoiaram incondicionalmente e a incentivaram a perseguir seus sonhos. Beatriz é uma criança resiliente que, com a ajuda de terapeutas e professores dedicados, aprendeu a superar muitos obstáculos. Ela está determinada a viver uma vida plena, fazer amigos e aproveitar cada oportunidade que se apresenta. Sua história é uma fonte de inspiração para aqueles que a conhecem e uma prova de que a força de vontade e o apoio adequado podem ajudar a superar qualquer desafio.
+
+**Miguel** nasceu com sua condição, o que trouxe desafios para sua família desde cedo. Seus pais sempre o apoiaram em suas paixões e interesses, e eles o matricularam em uma escola inclusiva, onde ele encontrou amigos e professores dedicados. Miguel é uma inspiração para todos ao seu redor, mostrando que a determinação e a paixão podem superar desafios significativos. Sua história é um testemunho de resiliência e determinação, e ele está determinado a fazer do mundo um lugar mais inclusivo e acessível para pessoas com deficiência, especialmente no mundo dos esportes adaptados.
+
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
