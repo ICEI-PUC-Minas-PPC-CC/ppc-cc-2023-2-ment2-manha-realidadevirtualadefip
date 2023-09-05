@@ -7,12 +7,14 @@ O principal desafio consiste em encontrar maneiras de minimizar as dificuldades 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Objetivo do Trabalho
+O objetivo principal do trabalho é ajudar pessoas que possuam algum tipo de deficiência e proporcionar um pouco de diversão.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Jogo de Quebra-Cabeça em Realidade Virtual
+Faremos isso através da construção de um jogo de quebra-cabeça que será feito para os óculos de realidade virtual, permitindo assim que pessoas com alguma dificuldade de mobilidade possam se divertir e melhorar habilidades cognitivas.
+
+Benefícios da Implementação
+Com a implementação do quebra-cabeça, as pessoas irão se divertir e sentir mais vontade de continuar seguindo a terapia, melhorando ainda mais os resultados.
 
 ## Justificativa
 
