@@ -3,7 +3,7 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-O problema que devemos administrar é em relação às dificuldades das pessoas dentro da ADEFIP, porém podemos promover com o projeto envolvendo o óculos de realidade virtual, um estímulo maior para as pessoas com problemas motores e mentais, assim promovendo diversão e saúde de forma abrangente para todas as pessoas dentro da Associação dos Deficientes Físicos de Poços de Caldas.  
+O principal desafio consiste em encontrar maneiras de minimizar as dificuldades enfrentadas pelas pessoas associadas à ADEFIP, enquanto desenvolvemos um projeto que possa englobar e incluir de maneira divertida e saudável todas as pessoas com deficiência. Nosso dever envolve a identificação das barreiras que tais pessoas enfrentam diariamente, sejam elas de natureza física, social ou emocional, de forma que possamos trazer a tecnologia e nosso conhecimento para ajudar e estimular a todos dentro da Associação dos Deficientes Físicos de Poços de Caldas.
 
 ## Objetivos
 
