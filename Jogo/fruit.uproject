@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -25,11 +25,9 @@
 			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win32",
 				"Win64",
 				"Linux",
-				"Android",
-				"HoloLens"
+				"Android"
 			]
 		},
 		{
@@ -39,15 +37,6 @@
 				"Win32",
 				"Win64",
 				"Linux"
-			]
-		},
-		{
-			"Name": "OculusOpenXR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Android"
 			]
 		}
 	],
