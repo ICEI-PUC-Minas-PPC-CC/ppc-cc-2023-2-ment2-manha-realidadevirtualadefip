@@ -7,7 +7,7 @@ Encontramos dificuldades também,pois não tinhamos tantas fontes de pesquisa e 
 
 Como o nosso jogo é estilo fruit ninja,tivemos dificuldade para conseguir configurar a mão do personagem que vai estar segurando uma espada;
 
-Existe muitos recursos no Unity(aplicativo que usamos no desenvolvimento do jogo) porém é um pouco complicado para mexer.
+Existe muitos recursos no Unreal(aplicativo que usamos no desenvolvimento do jogo) porém é um pouco complicado para mexer.
 
 
 
