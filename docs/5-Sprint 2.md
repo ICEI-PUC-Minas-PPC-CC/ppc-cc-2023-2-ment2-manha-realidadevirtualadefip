@@ -1,7 +1,8 @@
-# Sprint 2
+Logo abaixo o desenvolvimento e tudo que foi feito dentro do SPRINT 2, mostrando o desenvolvimento do jogo e como está em seus estágios quase finais, o planejamento é que nesta próxima semana consigamos utilizar o óculos Metaquest e terminarmos o desenvolvimento do nosso projeto.
+Link: https://drive.google.com/file/d/1MRUya_d_fT4IUyb13sKi4XyoXBLxY-yU/view?usp=sharing
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 2.
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-realidadevirtualadefip/assets/125387954/5701d8f8-f25b-4c6c-8072-f28fe2a8fa2f)
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-realidadevirtualadefip/assets/125387954/f6a614e3-614c-4ebd-a008-7939a5a88f4d)
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-realidadevirtualadefip/assets/125387954/60ee1f7f-c1e3-4998-be7f-29c00cfddd8a)
 
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
 
-Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista de presença, vídeos etc) deverá ser incluído nesta etapa. Nesta etapa, também deverão ser apresentadas as percepções do grupo com relação à prática extensionista desenvolvida respondendo questões como: o objetivo inicial foi alcançado? quais foram as principais dificuldades enfrentadas pelo grupo? que mudanças poderiam ser realizadas que tornaria o processo mais eficiente? Entre outras...
