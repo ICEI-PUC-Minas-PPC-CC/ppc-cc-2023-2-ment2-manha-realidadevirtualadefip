@@ -10,4 +10,4 @@
 
 ## Pitch de apresentação
 
-https://drive.google.com/file/d/1SUE9TPE7lYJpCjM5OEPSa8FvBYyIvloS/view)https://drive.google.com/file/d/1SUE9TPE7lYJpCjM5OEPSa8FvBYyIvloS/view
+https://drive.google.com/file/d/1SUE9TPE7lYJpCjM5OEPSa8FvBYyIvloS/view
