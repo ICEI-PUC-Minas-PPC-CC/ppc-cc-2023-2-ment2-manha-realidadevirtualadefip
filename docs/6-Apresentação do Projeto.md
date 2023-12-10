@@ -1,9 +1,5 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-Nesta seção, deverão ser apresentados os itens a seguir:
-
 ## Título do Projeto
 
 ADFruit
