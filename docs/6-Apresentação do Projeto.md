@@ -10,12 +10,9 @@ ADFruit
 
 ## Identidade Visual (Marca, Design)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-realidadevirtualadefip/assets/125387954/a2f7024a-2536-4fb2-b99b-2fe515e4b9f6)
 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+
 
 ## Pitch de apresentação
 
