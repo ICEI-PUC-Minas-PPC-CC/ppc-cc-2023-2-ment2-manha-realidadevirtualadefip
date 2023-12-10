@@ -1,6 +1,6 @@
 # Apresentação
 
-## ADFruit
+## ADFruit!
 
 ## Identidade Visual (Marca, Design)
 
