@@ -1,8 +1,6 @@
 # Apresentação
 
-## Título do Projeto
-
-ADFruit
+## ADFruit
 
 ## Identidade Visual (Marca, Design)
 
