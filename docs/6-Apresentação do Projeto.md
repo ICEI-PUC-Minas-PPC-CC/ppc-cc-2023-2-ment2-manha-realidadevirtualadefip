@@ -11,3 +11,8 @@
 ## Pitch de apresentação
 
 https://drive.google.com/file/d/1SUE9TPE7lYJpCjM5OEPSa8FvBYyIvloS/view
+
+
+## Download do Jogo
+
+https://drive.google.com/drive/folders/1PJlpJJqjRXPF9mdMHbw-RcHhbnZpSuIv?usp=sharing
