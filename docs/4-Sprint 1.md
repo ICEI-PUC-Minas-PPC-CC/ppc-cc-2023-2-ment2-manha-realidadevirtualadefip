@@ -5,7 +5,7 @@ https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-realidadevirt
 
 Logo abaixo, uma breve representação do desenvolvimento do jogo:
 
---> https://drive.google.com/file/d/19RMOPNxGMEctlIj5dEtNaYGhlMekNE87/view?usp=sharing
+--> https://youtu.be/1By0NmLaozU
 
 
 ![2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-realidadevirtualadefip/assets/137020741/7e12bb83-1478-46bf-abda-b37aa415ccec)
