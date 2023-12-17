@@ -6,11 +6,11 @@
 
 ## Integrantes
 
-- Davi Freire Zanatta
+- ---Davi Freire Zanatta---
 - Diogo Nascimento Ruis
 - Henrique de Souza Rocha
 - João Gabriel Bernardes de Oliveira
-- Leonardo Dias Cohen
+- ---Leonardo Dias Cohen---
 - Rafael de Souza Felisberto
 
 ## Professores
